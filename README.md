@@ -18,3 +18,8 @@ Improves the game's combat interface with:
 ## Compatibility
 
 Requires [SugarCube 2 ModLoader](https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader)
+
+## Support
+
+If you'd like to support the development of this mod or any other mod/tool I've created
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V21QT2FO)
