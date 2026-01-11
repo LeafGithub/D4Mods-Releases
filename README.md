@@ -21,5 +21,6 @@ Requires [SugarCube 2 ModLoader](https://github.com/Lyoko-Jeremie/sugarcube-2-Mo
 
 ## Support
 
-If you'd like to support the development of this mod or any other mod/tool I've created
+If you'd like to support the development of this mod or any other mod/tool I've created you can click the button below
+---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V21QT2FO)
